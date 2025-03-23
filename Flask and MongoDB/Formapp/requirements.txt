@@ -1,0 +1,6 @@
+Flask
+pymongo
+Flask-WTF
+dotenv
+flask_pymongo
+
