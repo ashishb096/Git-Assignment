@@ -12,15 +12,6 @@ This repository is created as part of a **Git assignment** to practice essential
 - Working with remote repositories (GitHub)
 - Pull Requests & Code Reviews
 
-## 📂 Repository Structure
-```
-Git-Assignment/
-│-- README.md       # Project Documentation
-│-- .gitignore      # Ignoring unnecessary files
-│-- main.txt        # Main assignment file
-│-- feature-branch/ # Example branch work
-```
-
 ## 🚀 Getting Started
 ### Prerequisites
 Ensure you have **Git** installed on your system.
